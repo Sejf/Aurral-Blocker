@@ -1,0 +1,6 @@
+Name = "Aurral Blocker"
+Version = "1.0.0"
+Authors = ["Envy"]
+Description = "Automatically block Aurral users from downloading your shares"
+Website = "https://github.com/Sejf/Aurral-Blocker"
+Category = "User Management"
